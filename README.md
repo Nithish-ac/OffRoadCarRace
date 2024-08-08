@@ -63,10 +63,6 @@ This project is a basic car driving simulation created in Unity, designed to eva
 - Expand the off-road level with additional obstacles and challenges.
 - Enhance the car physics for better realism.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Unity for providing powerful tools for game development.
